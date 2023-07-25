@@ -1,24 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.abd64e84.css",
-    "main.js": "/static/js/main.884d8f02.js",
+    "main.js": "/static/js/main.0caaaa92.js",
     "static/js/787.6751a08f.chunk.js": "/static/js/787.6751a08f.chunk.js",
+    "static/media/portrait_chelci.png": "/static/media/portrait_chelci.d505714922fd174734f1.png",
+    "static/media/twvw.png": "/static/media/twvw.ee0f242229b02435ef1e.png",
+    "static/media/cavinimg.jpg": "/static/media/cavinimg.77adeaa3a878fa721ecc.jpg",
+    "static/media/cold-beer-openImg.png": "/static/media/cold-beer-openImg.52a0e5162f62394a03a9.png",
     "static/media/map.png": "/static/media/map.85ada3750bab4ca45115.png",
+    "static/media/mern-cartImg.png": "/static/media/mern-cartImg.3c3efd8ef94de99f72be.png",
+    "static/media/budget-trackerImg.png": "/static/media/budget-trackerImg.bd523be86cb92761efe9.png",
     "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
     "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
     "static/media/RobotoMono-Regular.ttf": "/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
     "static/media/about-sec-img1.png": "/static/media/about-sec-img1.bec0dc132db762d4f25b.png",
+    "static/media/projectImg.png": "/static/media/projectImg.771236e1a97e2201a189.png",
     "static/media/banner-18.jpg": "/static/media/banner-18.2f2ee5235b0b41d01476.jpg",
     "static/media/hero-img4.jpg": "/static/media/hero-img4.2fb5e6c75e7e5e049817.jpg",
     "index.html": "/index.html",
     "static/media/scroll-down-arrow.svg": "/static/media/scroll-down-arrow.b013ca458cf827f32732e3ce3c691d03.svg",
     "static/media/social-media-arrow.svg": "/static/media/social-media-arrow.f5e093ceb316785e72dc77d75e5ed04f.svg",
     "main.abd64e84.css.map": "/static/css/main.abd64e84.css.map",
-    "main.884d8f02.js.map": "/static/js/main.884d8f02.js.map",
+    "main.0caaaa92.js.map": "/static/js/main.0caaaa92.js.map",
     "787.6751a08f.chunk.js.map": "/static/js/787.6751a08f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.884d8f02.js"
+    "static/js/main.0caaaa92.js"
   ]
 }
