@@ -91,21 +91,14 @@ export default function About() {
             <p className="about__subheading">
               Hi, I am <span>Michelle Jordan</span>
             </p>
-            <h2 className="about__heading">A freelance web developer</h2>
+            <h2 className="about__heading">Software Developer</h2>
             <div className="about__info">
               <PText>
-                Thinking outside the box, I am passionate about creating dynamic
-                and impactful websites to enhance user experiences. I strive to
-                understand your vision and help you overcome the challenges you
-                face.
+                Utilizing innovative perspectives, I am deeply enthusiastic about crafting dynamic and impactful websites aimed at elevating user experiences. My commitment lies in comprehending your vision and adeptly assisting you in surmounting any obstacles encountered.
                 <br /> <br />
-                If your website doesn’t reflect your true goals, mission
-                statement, and strategy, the first impression people will get
-                from it won’t match your model.
+                Should your website fail to accurately mirror your core objectives, mission statement, and strategic direction, its initial impression upon users may not align with your intended representation.
                 <br />
-                <br />I can help you define your image and brand by creating
-                your website using the latest technology and development
-                practices to build your online presence.
+                <br />I possess the expertise to facilitate the articulation of your image and brand identity through the proficient construction of your website. Leveraging cutting-edge technologies and industry-leading development practices, I am dedicated to establishing a compelling online presence on your behalf.
               </PText>
             </div>
             {/* <Button btnText="Download CV" btnLink="#" /> */}
@@ -153,9 +146,14 @@ export default function About() {
             <h1 className="about__info__heading">Experiences</h1>
 
             <AboutInfoItem
+              title="2023-present"
+              items={[
+                'Frontend Software Developer at Bank of America',
+              ]}
+            /><AboutInfoItem
               title="2020-present"
               items={[
-                'Freelance Web Developer at MoJo Web Design and Development',
+                'Software Developer at MJ Web Design and Development',
               ]}
             />
             <AboutInfoItem
