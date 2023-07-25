@@ -1,14 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
+import GlobalStyles from './styles/GlobalStyle';
+import Typography from './styles/Typography';
 import reportWebVitals from './reportWebVitals';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
+ReactDOM.render(
+  <>
+    <GlobalStyles />
+    <Typography />
     <App />
-  </React.StrictMode>
+  </>,
+  document.getElementById('root')
 );
 
 // If you want to start measuring performance in your app, pass a function
