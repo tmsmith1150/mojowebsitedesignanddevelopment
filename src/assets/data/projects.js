@@ -37,10 +37,10 @@ const projects = [
   },
   {
     id: uuidv4(),
-    name: 'Cavins Portfolio',
-    desc: 'A portfolio for Cavin jr. A artist from New york city. The portfolio is made using ReactJs and GatsbyJs.',
+    name: 'Lake Hollis Photography',
+    desc: 'Navigate through this online portfolio to witness the breadth of Lake Holliss artistic vision. From intimate portraits that reveal the depth of human emotion to expansive landscapes that showcase the awe-inspiring beauty of the world, each photograph is a testament to Lakes dedication to his craft.',
     img: CavinImg,
-    deployedLink: 'https://www.mojowebdesignanddevelopment.com/',
+    deployedLink: 'https://master.dv078p517j1n7.amplifyapp.com/',
   },
   {
     id: uuidv4(),
