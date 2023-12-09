@@ -44,7 +44,7 @@ const projects = [
   },
   {
     id: uuidv4(),
-    name: 'Budgets Tracker',
+    name: 'Budget Tracker',
     desc: 'A web application designed to help users keep track of all finances. It allows users to create their own categories for saving or spending to keep their financial future on track. Technologies used in this application are Node.js, Express, Handlebars, MySql, Sequelize, Passport, ESLint, TravisCI',
     img: BudgetTrackerImg,
     deployedLink: 'https://budget-tracker-project.herokuapp.com/overview',
