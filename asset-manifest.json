@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mojowebsitedesignanddevelopment/static/css/main.abd64e84.css",
-    "main.js": "/mojowebsitedesignanddevelopment/static/js/main.d5c0df1f.js",
+    "main.js": "/mojowebsitedesignanddevelopment/static/js/main.033f58e5.js",
     "static/js/787.6751a08f.chunk.js": "/mojowebsitedesignanddevelopment/static/js/787.6751a08f.chunk.js",
     "static/media/portrait_chelci.png": "/mojowebsitedesignanddevelopment/static/media/portrait_chelci.d505714922fd174734f1.png",
     "static/media/twvw.png": "/mojowebsitedesignanddevelopment/static/media/twvw.ee0f242229b02435ef1e.png",
@@ -21,11 +21,11 @@
     "static/media/scroll-down-arrow.svg": "/mojowebsitedesignanddevelopment/static/media/scroll-down-arrow.b013ca458cf827f32732e3ce3c691d03.svg",
     "static/media/social-media-arrow.svg": "/mojowebsitedesignanddevelopment/static/media/social-media-arrow.f5e093ceb316785e72dc77d75e5ed04f.svg",
     "main.abd64e84.css.map": "/mojowebsitedesignanddevelopment/static/css/main.abd64e84.css.map",
-    "main.d5c0df1f.js.map": "/mojowebsitedesignanddevelopment/static/js/main.d5c0df1f.js.map",
+    "main.033f58e5.js.map": "/mojowebsitedesignanddevelopment/static/js/main.033f58e5.js.map",
     "787.6751a08f.chunk.js.map": "/mojowebsitedesignanddevelopment/static/js/787.6751a08f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.d5c0df1f.js"
+    "static/js/main.033f58e5.js"
   ]
 }
