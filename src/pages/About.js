@@ -6,6 +6,7 @@ import AboutInfoItem from '../components/AboutInfoItem';
 import ContactBanner from '../components/ContactBanner';
 import GlobalStyles from '../styles/GlobalStyle';
 import Typography from '../styles/Typography';
+import Footer from '../components/Footer';
 
 const AboutPageStyles = styled.div`
   padding: 20rem 0 10rem 0;
@@ -166,6 +167,7 @@ export default function About() {
         </div>
       </div>
       <ContactBanner />
+      <Footer />
     </AboutPageStyles>
   );
 }

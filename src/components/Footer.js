@@ -52,6 +52,7 @@ const FooterStyle = styled.div`
         div {
           margin-top: 0;
           font-size: 20px;
+          margin-bottom: -95px !important;
         }
       }
     }
