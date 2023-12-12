@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './App.css';
 import NavMenu from './components/NavMenu';
@@ -15,13 +15,13 @@ export default function App() {
       <NavMenu />
       <ScrollToTop />
       <Routes>
+      <Route path="/" element={<Home />}>
+        </Route>
         <Route path="/about" element={<About />}>
         </Route>
         <Route path="/contact" element={<Contact />}>
         </Route>
         <Route path="/projects" element={<Projects />}>
-        </Route>
-        <Route path="/" element={<Home />}>
         </Route>
       </Routes>
     </BrowserRouter>
@@ -30,3 +30,5 @@ export default function App() {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
+
+
