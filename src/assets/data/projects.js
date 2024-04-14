@@ -17,10 +17,10 @@ const projects = [
   },
   {
     id: uuidv4(),
-    name: 'Chelci Hicks',
-    desc: 'Artist Chelci Hicks',
-    img: ChelciImg,
-    deployedLink: 'https://chelcihicksart.com/',
+    name: 'Lake Hollis Photography',
+    desc: 'Navigate through this online portfolio to witness the breadth of Lake Holliss artistic vision. From intimate portraits that reveal the depth of human emotion to expansive landscapes that showcase the awe-inspiring beauty of the world, each photograph is a testament to Lakes dedication to his craft. Technologies used in this application are HTML, CSS, Javascript, React.js, Node',
+    img: LakeImg,
+    deployedLink: 'https://master.dv078p517j1n7.amplifyapp.com/',
   },
   {
     id: uuidv4(),
@@ -34,21 +34,21 @@ const projects = [
     name: 'Full Stack eCommerce Cart',
     desc: 'This application incudes setting up the backend API to styling the components using pure css to create a fully responsive eCommerce Cart. Technologies used in this application are React.js, Redux, Node, MongoDB',
     img: MernCartImg,
-    deployedLink: 'https://www.mojowebdesignanddevelopment.com/',
+    deployedLink: 'https://www.mojowebsitedesignanddevelopment.com/',
   },
   {
     id: uuidv4(),
-    name: 'Lake Hollis Photography',
-    desc: 'Navigate through this online portfolio to witness the breadth of Lake Holliss artistic vision. From intimate portraits that reveal the depth of human emotion to expansive landscapes that showcase the awe-inspiring beauty of the world, each photograph is a testament to Lakes dedication to his craft. Technologies used in this application are HTML, CSS, Javascript, React.js, Node',
-    img: LakeImg,
-    deployedLink: 'https://master.dv078p517j1n7.amplifyapp.com/',
+    name: 'Chelci Hicks',
+    desc: 'Artist Chelci Hicks',
+    img: ChelciImg,
+    deployedLink: 'https://www.mojowebsitedesignanddevelopment.com/',
   },
   {
     id: uuidv4(),
     name: 'Budget Tracker',
     desc: 'A web application designed to help users keep track of all finances. It allows users to create their own categories for saving or spending to keep their financial future on track. Technologies used in this application are Node.js, Express, Handlebars, MySql, Sequelize, Passport, ESLint, TravisCI',
     img: BudgetTrackerImg,
-    deployedLink: 'https://budget-tracker-project.herokuapp.com/overview',
+    deployedLink: 'https://www.mojowebsitedesignanddevelopment.com/',
   },
 ];
 
