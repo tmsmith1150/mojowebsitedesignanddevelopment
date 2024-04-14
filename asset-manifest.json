@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.abd64e84.css",
-    "main.js": "/static/js/main.99bdc607.js",
+    "main.js": "/static/js/main.a2c42eb5.js",
     "static/js/787.6751a08f.chunk.js": "/static/js/787.6751a08f.chunk.js",
     "static/media/portrait_chelci.png": "/static/media/portrait_chelci.d505714922fd174734f1.png",
     "static/media/twvw.png": "/static/media/twvw.ee0f242229b02435ef1e.png",
+    "static/media/lakeHollisSite.png": "/static/media/lakeHollisSite.8d42085d3432e74da369.png",
     "static/media/cavinimg.jpg": "/static/media/cavinimg.77adeaa3a878fa721ecc.jpg",
     "static/media/cold-beer-openImg.png": "/static/media/cold-beer-openImg.52a0e5162f62394a03a9.png",
     "static/media/map.png": "/static/media/map.85ada3750bab4ca45115.png",
@@ -21,11 +22,11 @@
     "static/media/scroll-down-arrow.svg": "/static/media/scroll-down-arrow.b013ca458cf827f32732e3ce3c691d03.svg",
     "static/media/social-media-arrow.svg": "/static/media/social-media-arrow.f5e093ceb316785e72dc77d75e5ed04f.svg",
     "main.abd64e84.css.map": "/static/css/main.abd64e84.css.map",
-    "main.99bdc607.js.map": "/static/js/main.99bdc607.js.map",
+    "main.a2c42eb5.js.map": "/static/js/main.a2c42eb5.js.map",
     "787.6751a08f.chunk.js.map": "/static/js/787.6751a08f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.99bdc607.js"
+    "static/js/main.a2c42eb5.js"
   ]
 }
