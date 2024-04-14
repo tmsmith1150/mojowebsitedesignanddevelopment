@@ -25,12 +25,14 @@ const FooterStyle = styled.div`
     display: flex;
     justify-content: center;
     font-size: 20px;
+    margin-bottom: 0px !important;
   }
   .copyright {
     background-color: #000;
     text-align: center;
     padding: 1rem 0;
     margin-top: 5rem;
+    margin-bottom: 0px !important;
     .para {
       margin-left: 250px;
       min-width: 800px;
@@ -50,9 +52,8 @@ const FooterStyle = styled.div`
     .copyright {
       .container {
         div {
-          margin-top: 0;
+          margin-bottom: 0;
           font-size: 20px;
-          margin-bottom: -95px !important;
         }
       }
     }

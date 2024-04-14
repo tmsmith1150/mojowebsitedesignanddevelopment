@@ -6,6 +6,7 @@ import ProjectsInfo from '../assets/data/projects';
 import ProjectItem from '../components/ProjectItem';
 import GlobalStyles from '../styles/GlobalStyle';
 import Typography from '../styles/Typography';
+import Footer from '../components/Footer';
 
 const ProjectStyle = styled.div`
   padding: 10rem 0;
@@ -36,6 +37,17 @@ const ProjectStyle = styled.div`
   }
   .projects__searchBar .searchIcon path {
     color: var(--deep-dark);
+  }
+  {
+    .footer .copyright {
+      .container {
+        div {
+          margin-top: 0;
+          font-size: 20px;
+          margin-bottom: -95px !important;
+        }
+      }
+    }
   }
   @media only screen and (max-width: 768px) {
     .projects__searchBar,
@@ -93,6 +105,9 @@ export default function Projects() {
             />
           ))}
         </div>
+      </div>
+      <div>
+      <Footer className="footer" />
       </div>
     </ProjectStyle>
   );

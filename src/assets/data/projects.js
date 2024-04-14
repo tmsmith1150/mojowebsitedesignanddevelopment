@@ -5,6 +5,7 @@ import MernCartImg from '../images/mern-cartImg.png';
 import CBOImgImg from '../images/cold-beer-openImg.png';
 import BudgetTrackerImg from '../images/budget-trackerImg.png';
 import ChelciImg from '../images/portrait_chelci.png';
+import LakeImg from '../images/lakeHollisSite.png';
 
 const projects = [
   {
@@ -26,7 +27,7 @@ const projects = [
     name: 'Cold Beer Open',
     desc: 'Clients Terry and Earl host the Cold Beer Open annual golf tournament. With nearly 100 participates each year they needed a website rich in tradition and energy while modernizing the processes and communications. •	Technologies used in this application are React.js, Reactstrap, MySql, Passport, Express, Axios, Animate.css',
     img: CBOImgImg,
-    deployedLink: 'https://coldbeeropen.herokuapp.com/',
+    deployedLink: 'https://www.coldbeeropen.org/',
   },
   {
     id: uuidv4(),
@@ -38,8 +39,8 @@ const projects = [
   {
     id: uuidv4(),
     name: 'Lake Hollis Photography',
-    desc: 'Navigate through this online portfolio to witness the breadth of Lake Holliss artistic vision. From intimate portraits that reveal the depth of human emotion to expansive landscapes that showcase the awe-inspiring beauty of the world, each photograph is a testament to Lakes dedication to his craft.',
-    img: CavinImg,
+    desc: 'Navigate through this online portfolio to witness the breadth of Lake Holliss artistic vision. From intimate portraits that reveal the depth of human emotion to expansive landscapes that showcase the awe-inspiring beauty of the world, each photograph is a testament to Lakes dedication to his craft. Technologies used in this application are HTML, CSS, Javascript, React.js, Node',
+    img: LakeImg,
     deployedLink: 'https://master.dv078p517j1n7.amplifyapp.com/',
   },
   {
