@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.abd64e84.css",
-    "main.js": "/static/js/main.2138808e.js",
+    "main.js": "/static/js/main.36a1e63b.js",
     "static/js/787.6751a08f.chunk.js": "/static/js/787.6751a08f.chunk.js",
     "static/media/portrait_chelci.png": "/static/media/portrait_chelci.d505714922fd174734f1.png",
     "static/media/twvw.png": "/static/media/twvw.ee0f242229b02435ef1e.png",
+    "static/media/sweetfeet.png": "/static/media/sweetfeet.0c81f2c5251dd60f3af5.png",
     "static/media/lakeHollisSite.png": "/static/media/lakeHollisSite.8d42085d3432e74da369.png",
     "static/media/cavinimg.jpg": "/static/media/cavinimg.77adeaa3a878fa721ecc.jpg",
     "static/media/cold-beer-openImg.png": "/static/media/cold-beer-openImg.52a0e5162f62394a03a9.png",
+    "static/media/synclynks-ss.png": "/static/media/synclynks-ss.3f40f24fe0064acbbea9.png",
     "static/media/map.png": "/static/media/map.85ada3750bab4ca45115.png",
     "static/media/mern-cartImg.png": "/static/media/mern-cartImg.3c3efd8ef94de99f72be.png",
     "static/media/budget-trackerImg.png": "/static/media/budget-trackerImg.bd523be86cb92761efe9.png",
@@ -22,11 +24,11 @@
     "static/media/scroll-down-arrow.svg": "/static/media/scroll-down-arrow.b013ca458cf827f32732e3ce3c691d03.svg",
     "static/media/social-media-arrow.svg": "/static/media/social-media-arrow.f5e093ceb316785e72dc77d75e5ed04f.svg",
     "main.abd64e84.css.map": "/static/css/main.abd64e84.css.map",
-    "main.2138808e.js.map": "/static/js/main.2138808e.js.map",
+    "main.36a1e63b.js.map": "/static/js/main.36a1e63b.js.map",
     "787.6751a08f.chunk.js.map": "/static/js/787.6751a08f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.2138808e.js"
+    "static/js/main.36a1e63b.js"
   ]
 }
