@@ -55,7 +55,7 @@ const projects = [
   {
     id: uuidv4(),
     name: 'Chelci Hicks',
-    desc: 'Artist Chelci Hicks of Denver NC',
+    desc: 'Artist Chelci Hicks',
     img: ChelciImg,
     deployedLink: 'https://www.mojowebsitedesignanddevelopment.com/',
   }
