@@ -15,7 +15,7 @@ const projects = [
     name: 'SyncLynks',
     desc: 'A sophisticated and highly functional website for an online jewelry business that specializes in luxury custom medical alert jewelry. Built using the MERN stack, the application offers a robust and dynamic user experience. The frontend, developed with React, features a responsive and interactive design, while Next.js enhances performance with server-side rendering and static site generation, ensuring fast load times and improved SEO. For secure user authentication, NextAuth is seamlessly integrated, allowing customers to create accounts, log in, and manage their profiles effortlessly.<br>The backend is powered by Express and Node.js, supporting essential functionalities such as user authentication, product management, and order processing. MongoDB serves as the primary database, efficiently managing user data, product details, and order histories. Additionally, the application is integrated with DynamoDB on AWS, providing enhanced scalability and performance.<br>Deployed on AWS, the site benefits from high availability, scalability, and security. The user experience is designed to reflect the elegance and premium quality of the custom medical alert jewelry, with features that make browsing, customizing, and purchasing products both seamless and luxurious. Overall, this MERN stack application delivers a powerful and visually appealing platform for selling luxury custom medical alert jewelry online.',
     img: SyncLynksImg,
-    deployedLink: 'https://www.synclynks.com/',
+    deployedLink: 'https://synclynks.vercel.app/',
   },
   {
     id: uuidv4(),
