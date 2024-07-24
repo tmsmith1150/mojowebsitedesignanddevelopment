@@ -48,7 +48,7 @@ const projects = [
   {
     id: uuidv4(),
     name: 'Full Stack eCommerce Cart',
-    desc: 'This application incudes setting up the backend API to styling the components using pure css to create a fully responsive eCommerce Cart. Technologies used in this application are React.js, Redux, Node, MongoDB',
+    desc: 'This application encompasses everything from setting up the backend API to styling components with pure CSS, resulting in a fully responsive eCommerce cart. It utilizes React.js for the frontend, Redux for state management, Node.js for the server-side logic, and MongoDB for the database.',
     img: MernCartImg,
     deployedLink: 'https://www.mojowebsitedesignanddevelopment.com/',
   },
