@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import ProjectImg from '../assets/images/projectImg.png';
+import { useState } from 'react';
 
 const ProjectItemStyles = styled.div`
   .projectItem__img {
@@ -31,11 +32,21 @@ const ProjectItemStyles = styled.div`
     margin-top: 1rem;
     color: #fcebe1;
   }
+  .btn {
+  background-color: #ffffff;
+  color: black;
+  font-weight: bold;
+  border: none;
+  border-radius: 40px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 10px;
+  }
   .link {
-    line-height: 20px;
+    line-height: 40px;
     text-decoration: underline;
     color: #02c2f7;
-    font-size: 15px;
+    font-size: 20px;
   }
   .link:hover {
     color: #02f54b;
@@ -53,6 +64,9 @@ export default function ProjectItem({
   desc = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
   deployedLink = 'Visit Site',
 }) {
+
+  const [showMore, setShowMore] = useState(false);
+
   return (
     <ProjectItemStyles>
       <Link className="projectItem__img">
@@ -62,7 +76,9 @@ export default function ProjectItem({
         <Link to="#">
           <h3 className="projectItem__title">{title}</h3>
         </Link>
-        <p className="projectItem__desc">{desc}</p>
+        <p className="projectItem__desc">{showMore ? desc : `${desc.substring(0, 150)}`}
+          <br></br><button className='btn' onClick={() => setShowMore(!showMore)} >{showMore ? ' Show less...' : 'Show more...'}</button>
+        </p>
         <a
           href={deployedLink}
           className="link"
